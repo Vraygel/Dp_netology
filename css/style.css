@@ -532,7 +532,14 @@ h1 {
   display: flex;
 }
 
-.content {min-width: 46.867vw;margin-right: 7.1vw;}
+.sidebar{
+  min-width: 16.3vw;
+}
+
+.content {
+  min-width: 46.767vw;
+  margin-right: 7vw;
+}
 
 .container, .aside_shop{
   padding: 0 4.167vw;
