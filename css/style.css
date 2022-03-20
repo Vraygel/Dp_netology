@@ -158,9 +158,6 @@ object-fit: cover;
   border: 3px solid #b59f5b;
   position: absolute;
   top: auto;
-  right: 4.167vw;
-  bottom: 4.167vw;
-  left: 4.167vw;
   padding: 9.167vw 6.111vw 8.333vw;
 }
 
@@ -535,10 +532,7 @@ h1 {
   display: flex;
 }
 
-.content {
-min-width: 46.867vw;
-margin-right: 7.289vw;
-}
+.content {min-width: 46.867vw;margin-right: 7.1vw;}
 
 .container, .aside_shop{
   padding: 0 4.167vw;
@@ -614,7 +608,7 @@ margin-bottom: 3.614vw;
 }
 
 .container_news img{
-  margin-right: 1.205vw;
+  margin-right: 1.05vw;
   width: 4.217vw;
   height: 4.217vw;
 }
@@ -662,11 +656,11 @@ margin-bottom: 3.614vw;
 .product_content_container {
   width: 100%;
   min-height: 15.723vw;
-  padding: 0 1.024vw;
+  padding: 2.590vw 1.024vw 0;
+
 }
 
 .product_title {
-  margin-top: 2.59vw;
   font-size: 1.205vw;
   line-height: 1.446vw;
 }
@@ -677,7 +671,7 @@ margin-bottom: 3.614vw;
 }
 
 .product_footer {
-  margin: 1.325vw auto;
+  margin: 1.325vw auto 0;
 }
 
 .product_price {
@@ -719,8 +713,6 @@ margin-bottom: 3.614vw;
 .copiright a {
   font-size: 12px;
 }
-
-
 
 }
 
@@ -927,11 +919,10 @@ padding-top: 5px;
 .product_content_container {
   width: 100%;
   min-height: 34.5vw;
-  padding: 0 2.29vw;
+  padding: 6.210vw 2.29vw 0;
 }
 
 .product_title {
-  margin-top: 6.21vw;
   font-size: 2.214vw;
 }
 
@@ -941,7 +932,7 @@ padding-top: 5px;
 }
 
 .product_footer {
-  margin: 2.999vw auto;
+  margin: 2.999vw auto 0;
 }
 
 .product_price {
@@ -1195,11 +1186,10 @@ line-height: 5.556vw;
 .product_content_container {
   width: 100%;
   min-height: 59.722vw;
-  padding: 0 5.556vw;
+  padding: 14.167vw 5.556vw 0;
 }
 
 .product_title {
-  margin-top: 14.167vw;
   font-size: 4.556vw;
   line-height: 6.111vw;
 }
@@ -1210,7 +1200,7 @@ line-height: 5.556vw;
 }
 
 .product_footer {
-  margin: 6.5vw auto;
+  margin: 6.5vw auto 0;
 }
 
 .product_price {
