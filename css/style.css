@@ -156,12 +156,9 @@ h1, h2 {
   border: 3px solid #b59f5b;
   position: absolute;
   top: auto;
-  padding: 9.167vw 6.111vw 8.333vw;
 }
 
 .div_content_trend p {
-  font-size: 4.444vw;
-  line-height: 5.556vw;
   font-weight: 700;
   text-transform: uppercase; 
 }
