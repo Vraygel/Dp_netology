@@ -57,7 +57,6 @@ h1, h2 {
 
 .tegi {
   font-weight: 700;
-  font-size: 20px;
   text-transform: uppercase;
   text-align: left;
 }
@@ -70,7 +69,6 @@ h1, h2 {
 
 .tegi_list_item {
   list-style-type: none;
-  margin-right: 18px;
 }
 
 .tegi_list a {
@@ -135,7 +133,7 @@ h1, h2 {
   display: block;
   width: 100%;
   height: 100%;
-object-fit: cover;    
+  object-fit: cover;
 }
 
 .div_fon_trend {
@@ -424,8 +422,8 @@ object-fit: cover;
 
 .header{
   background-image: url(../img/banner-bg.jpg);
-  padding: 1.687vw 14.940vw 7.55vw;
-  margin-bottom: 3.5vw;
+  padding: 28px 247px 126px;
+  margin-bottom: 58px;
 }
 
 .menu_bar_icon{
@@ -433,7 +431,7 @@ object-fit: cover;
 }
 
 .logo_menu{
-  margin-bottom: 6.3vw;
+  margin-bottom: 103px;
 } 
 
 .nav_list {
@@ -446,8 +444,8 @@ object-fit: cover;
   list-style-type: none;
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 0.723vw;
-  margin-left: 2.169vw;
+  font-size: 13px;
+  margin-left: 32px;
 }
 
 .nav_list a {
@@ -457,31 +455,30 @@ object-fit: cover;
 }
 
 .img_logo {
-  width: 10.783vw;
-  height: 2.470vw;
+  width: 180px;
 }
 
 h1 {
-  font-size: 2.711vw;
-  line-height: 4.518vw;
-  width: 42.169vw;
+  font-size: 45px;
+  line-height: 75px;
+  width: 690px;
   margin: auto;
 }
 
 .sidebar .title_h2 {
-  font-size: 0.813vw;
+  font-size: 14px;
 }
 
 .title_h2_1 {
-  font-size: 1.205vw;
+  font-size: 20px;
   text-transform: uppercase;
-  margin-bottom: 1.386vw;
+  margin-bottom: 28px;
   text-align: center;
 }
 
 .title_h2_1:after {
   width: 66px;
-  margin-top: 12px;
+  margin-top: 8px;
 }
 
 .aside_trend_containers {
@@ -491,8 +488,7 @@ h1 {
 
 .aside_trend_container {
     width: calc(25% - 2.25px);
-    height: 19.217vw;
-    
+    height: 320px;
 }
 
 .aside_trend_container:nth-child(n + 2) {
@@ -500,19 +496,10 @@ h1 {
 }
 
 .div_content_trend {
-  right: 1.5vw;
-  bottom: 0.964vw;
-  left: 1.165vw;
-  padding: 2.048vw 1.867vw 1.867vw;
-}
-
-.div_content_trend p {
-  font-size: 1.205vw;
-  line-height: 1.446vw;
-}
-
-.tegi_list_item {
-    margin-right: 1.205vw;
+  right: 24px;
+  bottom: 16px;
+  left: 24px;
+  padding: 34px 32px 32px;
 }
 
 .div_tegi {
@@ -521,11 +508,11 @@ h1 {
 }
 
 .container{
-  margin-bottom: -2.410vw;
+  margin-bottom: -42px;
 }
 
 .aside_trend{
-  margin-bottom: 3.795vw;
+  margin-bottom: 63px;
 }
 
 .container{
@@ -533,108 +520,102 @@ h1 {
 }
 
 .sidebar{
-  min-width: 16.3vw;
+  min-width: 270px;
 }
 
 .content {
-  min-width: 46.767vw;
-  margin-right: 7vw;
-}
-
-.container, .aside_shop{
-  padding: 0 4.167vw;
+  min-width: 778px;
+  margin-right: 122px;
 }
 
 .content{
-  margin-bottom: 2.500vw;
+  /* margin-bottom: 0px; */
 }
 
 .article{
   display: flex;
-  margin-bottom: 3.614vw;
+  margin-bottom: 60px;
 }
 
 .title_container{
-  margin-bottom: 1.747vw;
+  margin-bottom: 28px;
 }
 
 .title_h3{
-  font-size: 1.205vw;
-  line-height: 1.446vw;
+  font-size: 20px;
+  line-height: 24px;
 }
 
 .time, .avtor {
-  font-size: 0.723vw;
+  font-size: 12px;
   display: block;
 }
 
 .avtor {
-  margin-left: 0.663vw;
+  margin-left: 11px;
 }
 
 .time_avtor{
-  margin-bottom: 2.771vw;
+  margin-bottom: 46px;
 }
 
 .article_content p{
-  font-size: 0.843vw;
-  line-height: 1.325vw;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 200;
 }
 
 .article_content_p{
-  margin-top: 0.301vw;
+  margin-top: 8px;
 }
 
 .tegi {
-  font-size: 0.843vw;
-  margin-bottom: 0.301vw;
+  font-size: 14px;
+  margin-bottom: 5px;
 }
 
 .tegi_list_item {
-  margin-right: 1.205vw;
+  margin-right: 20px;
 }
 
-.section_news{ 
-margin-bottom: 3.614vw;
-}
+.section_news{margin-bottom: 59px;}
 
 .container_news {
-  margin-bottom: 1.325vw;
+  margin-bottom: 22px;
   display: flex;
 }
 
-.section_search { 
-    margin-bottom: 3.494vw;
+.section_search {
+    margin-bottom: 57px;
 }
 
 .section_rassilka {
-  margin-bottom: 3.494vw;
+  margin-bottom: 55px;
 }
 .section_tegi{
-    margin-bottom: 3.012vw;
+    margin-bottom: 48px;
 }
 
 .container_news img{
-  margin-right: 1.05vw;
-  width: 4.217vw;
-  height: 4.217vw;
+  margin-right: 18px;
+  width: 70px;
+  height: 70px;
 }
 
 .title_news{
-  font-size: 0.843vw;
-  line-height: 1.084vw;
+  font-size: 14px;
+  line-height: 16px;
 }
 
 .img_article{
-  margin-right: 1.747vw;
-  max-width: 22.952vw;
+  margin-right: 30px;
+  max-width: 381px;
 }
 
 .container, .aside_shop {
-  padding: 0 4.557vw;
-}
-.container, .aside_shop {
-  padding: 0 14.759vw;
+  padding: 0 15px;
+  margin: auto;
+  max-width: 1200px;
 }
 
 .shop_container{
@@ -643,60 +624,56 @@ margin-bottom: 3.614vw;
 }
 
 .shop_product {
-  max-width: 20.444vw;
+  max-width: 345px;
   margin-bottom: 0;
 }
 
 .shop_product:nth-child(n + 2) {
-  margin-left: 3.976vw;
+  margin-left: 66px;
 }
 
 .product_img {
-  margin: -1.687vw auto 0;
-  top: 1.687vw;
+  margin: -36px auto 0;
+  top: 36px;
 }
 
-.product_img img{
-  width: 18.072vw;
-}
 
 .product_content_container {
   width: 100%;
-  min-height: 15.723vw;
-  padding: 2.590vw 1.024vw 0;
-
+  min-height: 268px;
+  padding: 47px 18px 0px;
 }
 
 .product_title {
-  font-size: 1.205vw;
-  line-height: 1.446vw;
+  font-size: 20px;
 }
 
 .product_p {
-  font-size: 0.904vw;
-  line-height: 1.325vw;
+  font-size: 14px;
+  line-height: 23px;
 }
 
 .product_footer {
-  margin: 1.325vw auto 0;
+  margin: 22px auto 0;
 }
 
 .product_price {
-  font-size: 1.205vw;
+  font-size: 20px;
 }
 
 .product_price_old {
-  font-size: 0.843vw;  
+  font-size: 14px;
 }
 
 .product_button {
-  padding: 0.904vw 1.747vw;
-  font-size: 0.843vw;
+  padding: 16px 28px;
+  font-size: 14px;
 }
 
 .footer {
-  padding: 0 14.759vw;
-  margin: 3.373vw auto 0;
+  /* padding: 0 245px; */
+  max-width: 1200px;
+  margin: 58px auto 0;
 }
 
 .ul_footer {
@@ -714,7 +691,7 @@ margin-bottom: 3.614vw;
 }
 
 .copiright {
-  margin-top: 3.735vw;
+  margin-top: 60px;
 }
 
 .copiright a {
@@ -1017,6 +994,13 @@ padding-top: 5px;
   margin-left: 3px;
 }
 
+.aside_trend_container .title_h3 {
+    font-size: calc(2.214vw/2);
+    line-height: calc(2.865vw/2);
+}
+
+
+
 }
 
 @media (min-width: 641px) and (max-width: 1199px) and (orientation: portrait){
@@ -1288,6 +1272,11 @@ line-height: 5.556vw;
 .tegi_list_item_trend {
     margin-right: calc(5.556vw/2);
 
+}
+
+.aside_trend_container .title_h3 {
+    font-size: calc(4.444vw/2);
+    line-height: calc(5.556vw/2);
 }
 
 }
