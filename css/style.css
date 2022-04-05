@@ -1353,30 +1353,3 @@ border-bottom: none;
 
 
 
-
-
-.div1{
-  width: 375px;
-}
-.div3{
-  display: flex;
-  justify-content: center;
-}
-
-.div1{
-  display: flex;
-  flex-wrap: wrap;
-  align-items: stretch;
-   
-}
-
-.div1 img{
-  margin: 0;
-  align-self: flex-start;
-}
-
-*{
-  padding: 0;
-  
-}
-
